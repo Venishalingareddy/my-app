@@ -1,0 +1,11 @@
+.app {
+    display: flex;
+  }
+  
+  .database-panel {
+    width: 45%;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  }
