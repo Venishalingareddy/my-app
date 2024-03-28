@@ -9,8 +9,8 @@ Key Points:
 #Panel 2: TPC-H Database 2 with a size of 10 MB.
 
 2.Input SQL Queries:
-# Within each panel, users have access to a textbox where they can input their SQL queries.
-# This allows users to specify the queries they want to run against the respective databases.
+#Within each panel, users have access to a textbox where they can input their SQL queries.
+#This allows users to specify the queries they want to run against the respective databases.
 
 3.Submit Button for Query Execution:
 #After inputting the SQL query, users can click the submit button within each panel to execute the query against the respective database.
